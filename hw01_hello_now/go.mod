@@ -1,4 +1,4 @@
-module github.com/Serrous/otus_repo/hw01_hello_now@latest
+module github.com/Serrous/otus_repo/tree/hw01_hello_now
 
 go 1.14
 
